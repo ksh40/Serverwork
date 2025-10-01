@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    background-repeat: no-repeat;
+    background-image:url("ns.png");
+    background-size: cover;
+    background-attachment: scroll;
+}
+form{
+    text-align: center;
+    color: aliceblue;
+    font-weight: 1000;
+}
+.navigation {
+    background-color:rgb(203, 240, 251);
+    display: flex;
+    justify-content:top;
+    
+}
+.navigation a {
+    padding: 0cm 3.1cm;
+    display: inline-block;
+    
+}
+.navigation a:link{
+    color: rgb(0, 0, 0);
+    background-color: rgb(203, 240, 251);
+    text-decoration: none;
+    padding: 10px 60px;
+}
+.navigation a:hover{
+    color: rgb(163, 0, 0);
+    background-color: rgb(71, 119, 240);
+    
+    padding: 10px 60px;
+}
+.navigation a:active{
+    color: rgb(0, 37, 69);
+    background-color: black;
+}
+.navigation a:visited{
+    color:rgb(112, 3, 3);
+} 
+.nav{
+    background-color: rgb(203, 240, 251);
+    color: beige;
+    color: rgb(0, 0, 0);
+    padding: 10rem 60rem; 
+    margin:15px;
+    width: 500px;
+}
+

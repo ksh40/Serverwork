@@ -1,0 +1,60 @@
+h1{
+    text-align: center;
+    color: rgb(203, 240, 251);
+    text-decoration: underline;
+    letter-spacing: 3px;
+    margin: 0;
+    height: 100px; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("wavy.jpg");
+} 
+h2{
+    color: rgb(203, 240, 251);
+    font-weight: 1000; font-size: 2em;
+}
+body{
+    margin: 0;
+    background-repeat: no-repeat;
+    background-color:rgb(203, 240, 251);
+    background-image: url(https://i.pinimg.com/736x/c6/25/27/c62527f0aa983a3cc48ba7da077565d6.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+}
+form{
+    text-align: center;
+}
+a{
+    line-height: 0%;
+    background-color: rgb(3, 107, 109);
+    margin:140px;
+    
+}
+a:link{
+    color: rgb(0, 0, 0);
+    background-color: rgb(203, 240, 251);
+    text-decoration: none;
+    
+}
+a:hover{
+    color: rgb(163, 0, 0);
+    background-color: rgb(71, 119, 240);
+    padding: 10px 45px;
+    display: inline-block
+}
+a:active{
+    color: aliceblue;
+    background-color: black;
+}
+/*visited link*/
+a:visited{
+    color:rgb(46, 211, 0);
+}
+img{
+    height: 200px;
+    width:200px;
+}
+.Addition{
+    display: grid;
+}

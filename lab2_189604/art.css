@@ -1,0 +1,52 @@
+.art{
+    background-color: dimgrey;
+    color: beige;
+    color: rgb(29, 211, 9);
+    padding: 1rem 2rem; 
+    margin:10px;
+    width: 250px;
+    height: 250px;
+}
+.artist{
+    background-color: rgb(253, 218, 148);
+    display: flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:left;
+    align-items:stretch;  
+}
+.one{
+    background-image: url(https://lastfm.freetls.fastly.net/i/u/770x0/954af72670e7f6def07ca3861ef7908e.jpg#954af72670e7f6def07ca3861ef7908e);
+    background-size: cover;
+}
+.two{
+    background-image: url(https://lastfm.freetls.fastly.net/i/u/770x0/9acca80487ff46c918663e8fb5a6593f.jpg#9acca80487ff46c918663e8fb5a6593f);
+    background-size: cover;
+}
+.three{
+    background-image: url(https://lastfm.freetls.fastly.net/i/u/770x0/e6e57f44214788ddb9a39e0233756123.jpg#e6e57f44214788ddb9a39e0233756123);
+    background-size: cover;
+}
+.four{
+    background-image: url(https://lastfm.freetls.fastly.net/i/u/770x0/23140c49c9ca5f451431ad2ce7911d3e.jpg#23140c49c9ca5f451431ad2ce7911d3e);
+    background-size: cover;
+}
+
+.six{
+    background-image: url(https://lastfm.freetls.fastly.net/i/u/770x0/49be39fb48f2d79b57ae8249ef97c388.jpg#49be39fb48f2d79b57ae8249ef97c388);
+    
+    background-size: cover;
+}
+.seven{
+    background-image: url(https://lastfm.freetls.fastly.net/i/u/770x0/665f82a105e5af66d3e0c19d21da2a4f.jpg#665f82a105e5af66d3e0c19d21da2a4f);
+    background-size: cover;
+}
+.eight{
+    background-image: url(https://lastfm.freetls.fastly.net/i/u/770x0/a979da60ed6029cf77c6705957066348.jpg#a979da60ed6029cf77c6705957066348);
+    background-size: cover;
+}
+.nine{
+    background-image: url(https://lastfm.freetls.fastly.net/i/u/770x0/ffe7c2bf5a25c67c350c2a6e20cbfd86.jpg#ffe7c2bf5a25c67c350c2a6e20cbfd86);
+    background-size: cover;
+}
+

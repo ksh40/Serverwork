@@ -1,0 +1,74 @@
+#nav {
+	list-style-type: none;
+	background-color: #282654;
+	padding: 20px;
+	overflow: hidden;
+}
+li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px 45px;
+	text-align: center;
+}
+/*li {
+	display: inline;
+}*/
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.active {
+	background-color: #8683C6;
+	color:#282654 ;
+
+}
+li a:hover {
+	background-color: #8683C6;
+	color: #282654;
+}
+h1 {
+	text-align: center;
+}
+#signupform, #loginform {
+	background-color: #282654;
+	margin: 20px 290px;
+	border-radius: 8px;
+	padding: 20px;
+}
+
+input, label, select {
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+label {
+	color: white;
+}
+input, select {
+	padding: 20px 45px;
+	width: 100%;
+	border: none;
+	border-radius: 8px;
+}
+[type=submit]{
+	background-color: #8683C6;
+	margin-top: 10px;
+	color: white;
+}
+[type=submit]:hover {
+	opacity: 0.5;
+}
+* {
+	box-sizing: border-box;
+}
+.formtext {
+	margin-top: 5px;
+	text-align: center;
+	color: white;
+}
+.formtext a {
+	color: #8683C6;
+	text-decoration: none;
+}

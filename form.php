@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Register</h1>
+    <form action="welcome.php" method="post">
+        <input type="text" name="fullname" placeholder="fullname">
+        <select>
+            <option>--select course</option>
+            <option>ICS</option>
+            <option>BBIT</option>
+            <option>CNS</option>
+        </select>  
+        <input type="email" name="email" placeholder="Enter email">
+        <input type="submit" name="register" placeholder="register">
+    </form>
+</body>
+</html>
